@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning web development
 
-[Personal Portfolio](https://jstep21.github.io/portfolio/)
+You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 <!--
 **jstep21/jstep21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
