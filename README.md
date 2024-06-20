@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning web development
+### I recently graduated from the Tech Elevator NLR Bootcamp
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 <!--
