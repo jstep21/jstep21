@@ -21,7 +21,7 @@
   </a> -->
 </div>
 
-<h3 align="center">Hi there 👋</h3>
+<h1 align="center">Hi there 👋</h1>
 
 <h3>🌱 I’m currently learning web development and recently graduated from the Tech Elevator NLR Bootcamp</h3>
 
