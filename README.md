@@ -15,6 +15,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=jstep21&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
 ### 🌱 I’m currently learning web development and recently graduated from the Tech Elevator NLR Bootcamp
 
