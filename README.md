@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY0cXFsY2wwdnF0c3dya3V4dGN0MGR2bnMxcXQ2ZTd3ZXNoOXRuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 ### 🌱 I’m currently learning web development and recently graduated from the Tech Elevator NLR Bootcamp
 
