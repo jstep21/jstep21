@@ -21,8 +21,7 @@
   </a> -->
 </div>
 
-
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 ### 🌱 I’m currently learning web development and recently graduated from the Tech Elevator NLR Bootcamp
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
