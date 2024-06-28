@@ -21,6 +21,10 @@
   </a> -->
 </div>
 
+--- 
+
+### :male_technologist: About Me:
+
 <h2 align="center">Hi there 👋</h2>
 
 <h3>🌱 I’m currently learning web development</h3>
