@@ -23,7 +23,7 @@
 
 --- 
 
-### :male_technologist: About Me:
+### 👨‍💻 About Me:
 
 <h2 align="center">Hi there 👋</h2>
 
