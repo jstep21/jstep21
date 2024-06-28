@@ -21,11 +21,12 @@
   </a> -->
 </div>
 
+<h2 align="center">Hi there 👋</h2>
+
+
 --- 
 
 ### 👨‍💻 About Me:
-
-<h2 align="center">Hi there 👋</h2>
 
 <h3>🌱 I’m currently learning web development</h3>
 
