@@ -24,7 +24,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 
-### About Me:
+<!-- <h3>About Me:</h3> -->
 
 <h3>🌱 I’m currently learning web development</h3>
 
