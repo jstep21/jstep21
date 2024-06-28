@@ -23,7 +23,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-<h3>🌱 I’m currently learning web development and recently graduated from the Tech Elevator NLR Bootcamp</h3>
+<h3>🌱 I’m currently learning web development</h3>
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 
