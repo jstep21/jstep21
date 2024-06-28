@@ -27,7 +27,7 @@
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 
-<!-- <img src="https://komarev.com/ghpvc/?username=jstep21&style=flat-square&color=blue" alt=""/> -->
+<img src="https://komarev.com/ghpvc/?username=jstep21&style=flat-square&color=blue" alt=""/>
 
 <!--
 **jstep21/jstep21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
