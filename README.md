@@ -26,7 +26,7 @@
 
 <!-- <h3>About Me:</h3> -->
 
-<h3>🌱 I’m currently learning web development</h3>
+<h3>I’m a web developer</h3>
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 
