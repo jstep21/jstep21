@@ -32,6 +32,9 @@
 
 You can find my personal porfolio [here](https://jstep21.github.io/portfolio/)
 
+```bash
+git clone
+```
 
 <!-- counter -->
 <!-- <img src="https://komarev.com/ghpvc/?username=jstep21&style=flat-square&color=blue" alt=""/> -->
