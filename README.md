@@ -23,7 +23,7 @@
 </div> -->
 
 
-<h2 align="center">Hi there 👋</h2>
+<h3 align="center">Hi there 👋</h3>
 
 
 <!-- <h3>About Me:</h3> -->
