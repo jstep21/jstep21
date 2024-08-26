@@ -5,7 +5,6 @@
 </div>
 
 
-
 <!-- Links -->
 <!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jacobstephenss">
